@@ -20,7 +20,11 @@ Interactive Power BI dashboard analyzing electronic sales performance across 24 
 - Q4 showed peak performance with November as the strongest month
 - Revenue exceeded targets in 18 out of 24 months
 - Overall achievement reached 104% across the full 2-year period
+## Dashboard Preview
 
+![Dashboard Overview](Screenshot%202026-06-10%20143018.png)
+![Category Analysis](Screenshot%202026-06-10%20143035.png)
+![Data Table](Screenshot%202026-06-10%20143104.png)
 ## Tools Used
 - Power BI
 - Microsoft Excel
